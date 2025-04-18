@@ -10,13 +10,13 @@ This project aims to implement various clustering algorithms using different pre
 
 ## Output
 
-## GMM
+### GMM
 ![Screenshot 2025-04-17 223642](https://github.com/user-attachments/assets/7b46e7de-9f32-4d3c-8357-bbb04a4a8a2f)
 
-## Agglomerative
+### Agglomerative
 ![Screenshot 2025-04-17 223635](https://github.com/user-attachments/assets/fbdb3e7b-ea4c-4d41-a772-b7c350a82c08)
 
-## Kmeans
+### Kmeans
 ![Screenshot 2025-04-17 223624](https://github.com/user-attachments/assets/75b355d6-2b4e-4c18-8611-75b3ec632569)
 
 
